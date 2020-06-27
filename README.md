@@ -1,1 +1,2 @@
-# C-31-PLINKO-PROJECT
+# p5.play-boilerplate
+Boiler plate for p5.play
